@@ -1,4 +1,4 @@
-import { Roboto_Mono } from 'next/font/google'
+
 import { FiShoppingCart } from "react-icons/fi";
 import { LuCircleUserRound } from "react-icons/lu";
 
