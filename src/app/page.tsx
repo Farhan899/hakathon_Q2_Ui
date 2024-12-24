@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <main>
 <Navbar/>
+<div></div>
 <Hero_sec />
     </main>
   );
