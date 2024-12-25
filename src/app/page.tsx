@@ -15,7 +15,7 @@ export default function Home() {
    
     <Hero/>
     <FontShowcase/>
-    {/* <NewArivel/>
+    {/* <NewAriveel/>
     <BestSelling/> */}
     <Products/>
     <Top_sell/>
